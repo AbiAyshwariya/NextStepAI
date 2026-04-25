@@ -1,0 +1,7 @@
+1. Getting all the imports done such as NextJs and ShadCNUi
+2. Editing the ThemeProvider in the Included with the header , footer and children
+3. Run the app in one terminal and " npm run dev " 
+4. Create the required folders and repositories in another terminal and run " npx inngest-cli@latest dev "
+
+
+Gemini Api Key : AIzaSyBp05I0S5__TaYpS5sSxftYhq97WpnKeJ4
