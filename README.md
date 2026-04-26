@@ -81,8 +81,7 @@ https://github.com/user-attachments/assets/c643905d-dbe2-4c87-8a7a-d11bec4413fc
 
 ⚙️ Installation
 # Clone the repository
-[[git clone https://github.com/your-username/nextstep-ai.git
-](https://github.com/AbiAyshwariya/NextStepAI)](https://github.com/AbiAyshwariya/NextStepAI)
+git clone https://github.com/AbiAyshwariya/NextStepAI
 # Navigate to project folder
 cd nextstep-ai
 
